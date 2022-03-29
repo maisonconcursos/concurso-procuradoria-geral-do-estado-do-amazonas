@@ -49,36 +49,36 @@ Programação:
 * [ ] Progressive Web Apps.
 * [ ] Fundamentos de linguagens de programação: Sintaxe básica.
 * [ ] Palavras Palavras-chave.
-* [ ]Estrutura e construções básicas de um programa.
-* [ ]Compilação e execução de programas.
-* [ ]Tipos primitivos de dados.
-* [ ]Declaração e inicialização de variáveis.
-* [ ]Utilização de literais e strings.
-* [ ]Categorias de operadores e precedência.
-* [ ]Controle de fluxo de programas e repetição.
-* [ ]Definição de classes, métodos e variáveis.
-* [ ]Utilização de encapsulamento.
+* [ ] Estrutura e construções básicas de um programa.
+* [ ] Compilação e execução de programas.
+* [ ] Tipos primitivos de dados.
+* [ ] Declaração e inicialização de variáveis.
+* [ ] Utilização de literais e strings.
+* [ ] Categorias de operadores e precedência.
+* [ ] Controle de fluxo de programas e repetição.
+* [ ] Definição de classes, métodos e variáveis.
+* [ ] Utilização de encapsulamento.
 * Utilização de packages.
-* [ ]Sobrecarga de métodos.
-* [ ]Utilização e implementação de bibliotecas e componentes.
+* [ ] Sobrecarga de métodos.
+* [ ] Utilização e implementação de bibliotecas e componentes.
 * [ ] Administração de exceções.
-* [ ]Acesso a banco de dados. SQL.
-* [ ]Manutenção de Sistemas: Questões práticas de compreensão, abordagem e solução de implementações de rotinas.
-* [ ]Programas.
-* [ ]Arquivos.
-* [ ]Relatórios.
-* [ ]Diagnósticos de problemas.
-* [ ]Depuração de erros.
-* [ ]Metodologias de teste de software.
-* [ ]Versionamento de código com Git e Github.
-* [ ]Qualidade do software: Conhecimento dos modelos CapabilityMaturityModelIntegration(CMMI-DEV v1.3).
-* [ ]ABNT NBR ISO/IEC/IEEE 12207:2021 e MR-MPS-SW (MPS para Software).
-* [ ]Arquitetura:Multi-camadas.
-* [ ]Cliente-servidor.
-* [ ]Objetos distribuídos.
-* [ ]Padrão MVC.
-* [ ]Conceitos e fundamentos de SOA - Arquitetura orientada a serviços. 
+* [ ] Acesso a banco de dados. SQL.
+* [ ] Manutenção de Sistemas: Questões práticas de compreensão, abordagem e solução de implementações de rotinas.
+* [ ] Programas.
+* [ ] Arquivos.
+* [ ] Relatórios.
+* [ ] Diagnósticos de problemas.
+* [ ] Depuração de erros.
+* [ ] Metodologias de teste de software.
+* [ ] Versionamento de código com Git e Github.
+* [ ] Qualidade do software: Conhecimento dos modelos CapabilityMaturityModelIntegration(CMMI-DEV v1.3).
+* [ ] ABNT NBR ISO/IEC/IEEE 12207:2021 e MR-MPS-SW (MPS para Software).
+* [ ] Arquitetura:Multi-camadas.
+* [ ] Cliente-servidor.
+* [ ] Objetos distribuídos.
+* [ ] Padrão MVC.
+* [ ] Conceitos e fundamentos de SOA - Arquitetura orientada a serviços. 
 * [ ] Multi-cloudarchitectures.
-* [ ]Blockchaintechnology.
-* [ ]Serverlesscomputing.
+* [ ] Blockchaintechnology.
+* [ ] Serverlesscomputing.
 * Inglês técnico.
