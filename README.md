@@ -8,6 +8,9 @@
 ##### Inscrições de 15/02/2022 à 16/03/2022
 ---
 ###### Prova: 17/04/2022
+###### Gabarito: 18/04/2022
+###### Resultado Preliminar: 24/05/2022
+###### Resultado final: 01/07/2022
 ---
 > TÉCNICO EM GESTÃO PROCURATORIAL - ESPECIALIDADE ENGENHARIA DE SOFTWARE
 ---
