@@ -34,6 +34,13 @@ LÍNGUA PORTUGUESA:
 * [ ] Adequação da linguagem ao tipo de documento.
 * [ ] Adequação do formato do texto ao gênero.
 ----------------------------------------------------------------------------------------------------------------------------
+
+RACIOCÍNIO LÓGICO-MATEMÁTICO:
+* [ ] Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; deduzir novas informações das relações fornecidas e avaliar as condições usadas para estabelecer a estrutura daquelas relações.
+* [ ] Compreensão e elaboração da lógica das situações por meio de: raciocínio verbal, raciocínio matemático, raciocínio sequencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos.
+* [ ] Compreensão do processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas
+----------------------------------------------------------------------------------------------------------------------------
+
 * [ ] Conceitos de engenharia de software: 
 *   [ ] Processo de desenvolvimento de software.
 *   [ ] Ciclos de vida do software.
