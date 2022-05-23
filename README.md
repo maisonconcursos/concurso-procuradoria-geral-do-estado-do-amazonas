@@ -61,16 +61,16 @@ NOÇÕES DE INFORMÁTICA:
 ----------------------------------------------------------------------------------------------------------------------------
 
 NOÇÕES DE ADMINISTRAÇÃO:
-[ ] Características básicas das organizações formais modernas: tipos de estrutura organizacional, natureza, finalidades e 
+* [ ] Características básicas das organizações formais modernas: tipos de estrutura organizacional, natureza, finalidades e 
 critérios de departamentalização.
-[ ] Organização administrativa: centralização, descentralização, concentração e desconcentração; administração direta e 
+* [ ] Organização administrativa: centralização, descentralização, concentração e desconcentração; administração direta e 
 indireta.
-[ ] Gestão de processos.
-[ ] Gestão de contratos.
-[ ] Noções de processos licitatórios.
-[ ] Conceito, finalidades, princípios e objeto.
-[ ] Modalidades.
-[ ] Dispensa e inexigibilidade
+* [ ] Gestão de processos.
+* [ ] Gestão de contratos.
+* [ ] Noções de processos licitatórios.
+* [ ] Conceito, finalidades, princípios e objeto.
+* [ ] Modalidades.
+* [ ] Dispensa e inexigibilidade
 
 ----------------------------------------------------------------------------------------------------------------------------
 
