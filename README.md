@@ -58,6 +58,22 @@ NOÇÕES DE INFORMÁTICA:
 * [ ] Conceitos de organização, compactação e de gerenciamento de informações, arquivos, pastas e programas em ambientes compartilhados. 
 * [ ] Noções básicas de segurança da informação e proteção de sistemas informatizados.
 
+----------------------------------------------------------------------------------------------------------------------------
+
+NOÇÕES DE ADMINISTRAÇÃO:
+[ ] Características básicas das organizações formais modernas: tipos de estrutura organizacional, natureza, finalidades e 
+critérios de departamentalização.
+[ ] Organização administrativa: centralização, descentralização, concentração e desconcentração; administração direta e 
+indireta.
+[ ] Gestão de processos.
+[ ] Gestão de contratos.
+[ ] Noções de processos licitatórios.
+[ ] Conceito, finalidades, princípios e objeto.
+[ ] Modalidades.
+[ ] Dispensa e inexigibilidade
+
+----------------------------------------------------------------------------------------------------------------------------
+
 * [ ] Conceitos de engenharia de software: 
 *   [ ] Processo de desenvolvimento de software.
 *   [ ] Ciclos de vida do software.
