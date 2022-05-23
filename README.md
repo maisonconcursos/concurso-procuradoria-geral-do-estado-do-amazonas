@@ -14,6 +14,26 @@
 ---
 > TÉCNICO EM GESTÃO PROCURATORIAL - ESPECIALIDADE ENGENHARIA DE SOFTWARE
 ---
+
+LÍNGUA PORTUGUESA:
+* [ ] Domínio da ortografia oficial.
+* [ ] Emprego da acentuação gráfica.
+* [ ] Emprego dos sinais de pontuação.
+* [ ] Flexão nominal e verbal.
+* [ ] Pronomes: emprego, formas de tratamento e colocação.
+* [ ] Domínio dos mecanismos de coesão textual.
+* [ ] Emprego de tempos e modos verbais. 
+* [ ] Vozes do verbo.
+* [ ] Concordância nominal e verbal.
+* [ ] Regência nominal e verbal. 
+* [ ] Morfossintaxe.
+* [ ] Redação (confronto e reconhecimento de frases corretas e incorretas).
+* [ ] Compreensão e interpretação de textos de gêneros variados. 
+* [ ] Reconhecimento de tipos e gêneros textuais.
+* [ ] Figuras de linguagem. 
+* [ ] Adequação da linguagem ao tipo de documento.
+* [ ] Adequação do formato do texto ao gênero.
+----------------------------------------------------------------------------------------------------------------------------
 * [ ] Conceitos de engenharia de software: 
 *   [ ] Processo de desenvolvimento de software.
 *   [ ] Ciclos de vida do software.
