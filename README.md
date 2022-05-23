@@ -47,6 +47,17 @@ NOÇÕES DE ESTATÍSTICAS:
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+NOÇÕES DE INFORMÁTICA:
+* [ ] Noções de internet, intranet e redes de computadores.
+* [ ] Conceitos básicos dos modos de utilização de tecnologias, ferramentas, aplicativos e procedimentos de informática.
+* [ ] Conceitos básicos dos modos de utilização de aplicativos para edição de textos, planilhas e apresentações utilizando-se a suíte de produtividade Microsoft Office 2010 ou superior.
+* [ ] Conceitos e modos de utilização de sistemas operacionais Windows 7 e 10.
+* [ ] Noções básicas de ferramentas e aplicativos de navegação (Google Chrome, Mozilla Firefox, Internet Explorer e Edge) e correio eletrônico (Notes SmartCloud, Verse e Outlook Express).
+* [ ] Sítios de busca e pesquisa na internet.
+* [ ] Noções de computação na nuvem (cloudcomputing).
+* [ ] Conceitos de organização, compactação e de gerenciamento de informações, arquivos, pastas e programas em ambientes compartilhados. 
+* [ ] Noções básicas de segurança da informação e proteção de sistemas informatizados.
+
 * [ ] Conceitos de engenharia de software: 
 *   [ ] Processo de desenvolvimento de software.
 *   [ ] Ciclos de vida do software.
