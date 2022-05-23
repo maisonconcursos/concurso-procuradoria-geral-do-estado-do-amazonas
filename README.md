@@ -42,8 +42,8 @@ RACIOCÍNIO LÓGICO-MATEMÁTICO:
 ----------------------------------------------------------------------------------------------------------------------------
 
 NOÇÕES DE ESTATÍSTICAS:
-[ ] medidas de tendência central (moda, mediana, média aritmética simples e ponderada) e de dispersão (desvio médio, amplitude, variância, desvio padrão);
-[ ] leitura e interpretação de gráficos (histogramas, setores, infográficos) e tabelas.
+* [ ] medidas de tendência central (moda, mediana, média aritmética simples e ponderada) e de dispersão (desvio médio, amplitude, variância, desvio padrão);
+* [ ] leitura e interpretação de gráficos (histogramas, setores, infográficos) e tabelas.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
