@@ -41,6 +41,12 @@ RACIOCÍNIO LÓGICO-MATEMÁTICO:
 * [ ] Compreensão do processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas
 ----------------------------------------------------------------------------------------------------------------------------
 
+NOÇÕES DE ESTATÍSTICAS:
+[ ] medidas de tendência central (moda, mediana, média aritmética simples e ponderada) e de dispersão (desvio médio, amplitude, variância, desvio padrão);
+[ ] leitura e interpretação de gráficos (histogramas, setores, infográficos) e tabelas.
+
+----------------------------------------------------------------------------------------------------------------------------
+
 * [ ] Conceitos de engenharia de software: 
 *   [ ] Processo de desenvolvimento de software.
 *   [ ] Ciclos de vida do software.
