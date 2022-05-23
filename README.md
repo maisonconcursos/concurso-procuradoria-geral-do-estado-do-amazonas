@@ -17,7 +17,7 @@
 
 LÍNGUA PORTUGUESA:
 * [ ] Domínio da ortografia oficial.
-* [ ] Emprego da acentuação gráfica.
+* [x] Emprego da acentuação gráfica.
 * [ ] Emprego dos sinais de pontuação.
 * [ ] Flexão nominal e verbal.
 * [ ] Pronomes: emprego, formas de tratamento e colocação.
