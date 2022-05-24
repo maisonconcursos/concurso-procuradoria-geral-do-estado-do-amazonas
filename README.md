@@ -145,3 +145,8 @@ Programação:
 * [ ] Blockchaintechnology.
 * [ ] Serverlesscomputing.
 * Inglês técnico.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/100721117/169923491-01353c7c-fbfb-4b7e-adb8-4ce7484f0027.png)
+
